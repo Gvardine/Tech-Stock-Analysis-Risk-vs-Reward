@@ -19,9 +19,9 @@ The goal of this project is to evaluate investment efficiency by comparing histo
 - **Jupyter Notebook**: For interactive analysis.
 
 ## Visualizations Included
-1. **Cumulative Returns:** Comparison of a $1 investment growth.
-2. **Volatility Analysis:** Time-series of daily returns and Boxplots to identify outliers.
-3. **Correlation Matrix:** Heatmap showing how these stocks move in tandem.
+- **Cumulative Returns:** Comparison of a $1 investment growth.
+- **Volatility Analysis:** Time-series of daily returns and Boxplots to identify outliers.
+- **Correlation Matrix:** Heatmap showing how these stocks move in tandem.
 
 ## Conclusion
 The study proves the classic "High Risk, High Reward" rule. While Tesla is ideal for aggressive growth, a combination of Microsoft and Apple provides a more balanced and resilient portfolio against market shocks like the one seen in 2025.
